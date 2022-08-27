@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Saravanan</h1>
-<h3 align="center">A passionate Electronics and Communications Engineer and a developer from india</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer and developer from india</h3>
 
 - 💬 Ask me about **C,C++,Java,Python**
 
