@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python**
 
-- 📫 How to reach me **Harishsaravanan@gmail.com**
+- 📫 How to reach me **Harishsaravanan.online@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
